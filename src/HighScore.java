@@ -1,0 +1,1 @@
+public record HighScore(String name, int score) {}
